@@ -1,0 +1,14 @@
+C:\workspace\csharp\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.exe
+C:\workspace\csharp\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.deps.json
+C:\workspace\csharp\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.runtimeconfig.json
+C:\workspace\csharp\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.dll
+C:\workspace\csharp\SistemaCelulares\bin\Debug\net8.0\SistemaCelulares.pdb
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.AssemblyInfoInputs.cache
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.AssemblyInfo.cs
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.csproj.CoreCompileInputs.cache
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.dll
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\refint\SistemaCelulares.dll
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.pdb
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\SistemaCelulares.genruntimeconfig.cache
+C:\workspace\csharp\SistemaCelulares\obj\Debug\net8.0\ref\SistemaCelulares.dll
